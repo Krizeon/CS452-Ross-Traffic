@@ -37,15 +37,15 @@ November 29, 2018
 
 #### Results:
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/bgsubtraction%20example.png "Monday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png. "Monpngday")
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/bgsubtraction%20example.png "Tuesday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/bgsubtraction%20example.png "Wednesday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20wednesday%20graph.png "Wednesday")
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/bgsubtraction%20example.png "Thursday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20thurday%20graph.png "Thursday")
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/bgsubtraction%20example.png "Friday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20friday%20graph.png "Friday")
 
  
 #### Issues that we have faced:
