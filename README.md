@@ -9,7 +9,7 @@ Professor Vaccari
 
 November 29, 2018
 
-##### Acknowledgments
+#### Acknowledgments
   We would like to thank Professor Vaccari as well as Joey Hernandez for all their help on this assignment.
 
 ## Semester Long Project draft Report
