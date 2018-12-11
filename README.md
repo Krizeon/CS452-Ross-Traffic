@@ -48,7 +48,7 @@ November 29, 2018
 #### What we accomplished: 
 1.    Gained approval to film in the dining halls.
 2.    Acquired a camera to film data 
-3.    Begin to aquire data
+3.    Acquired the necessary data
 4.    Developed a functional Background Subtraction Algorithm Using Open CV2
 5.    Creating a graph for each day of the week to visually represent the data that we produce
 
