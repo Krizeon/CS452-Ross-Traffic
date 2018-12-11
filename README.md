@@ -32,17 +32,24 @@ November 29, 2018
 #### What we accomplished: 
 1.    Gained approval to film in the dining halls.
 2.    Acquired a camera to film data 
-3.    Developed a functional Background Subtraction Algorithm Using Open CV2
-4.    Creating a for each day of the week graph to visually represent the data that we produce
+3.    Begin to aquire data
+4.    Developed a functional Background Subtraction Algorithm Using Open CV2
+5.    Creating a graph for each day of the week to visually represent the data that we produce
 
-What we are doing now:
-Collecting data. (10/31 ~ 11/13) 
-Working on code to:
-Get our background subtracted white blobs to be more connected (11/4) 
-Remove any outliers like the grey noise or people wandering around (11/11) 
-Define what a line of people looks like in our algorithm ( 11/11) 
-Remove as much noise as possible ( 11/4) 
-Establish thresholds that allows us to dictate how (full) the dinning all is at a given time 
+#### Our original Plan: 
+1.    Collecting data. (10/31 ~ 11/13) 
+2.    Working on code to:
+        a.  Get our background subtracted white blobs to be more connected (11/4) 
+        b.  Remove any outliers like the grey noise or people wandering around (11/11) 
+        c.  Define what a line of people looks like in our algorithm ( 11/11) 
+        d.  Remove as much noise as possible ( 11/4) 
+        e.  Establish thresholds that allows us to dictate how (full) the dinning all is at a given time(This was removed due               to time constraints) 
+
+What we need to finish:
+Aggregate video data from Ross Dining Hall for the next two weeks (10/31 ~ 11/13) 
+Finish implementing thresholds to our code (11/4) 
+Create a graph of our data that shows when peak times are in Ross Dining Hall for each day of the week 
+
 
 
 #### Results:
