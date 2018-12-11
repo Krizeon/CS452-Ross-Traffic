@@ -12,7 +12,7 @@ November 29, 2018
 #### Acknowledgments
   We would like to thank Professor Vaccari as well as Joey Hernandez for all their help on this assignment.
 
-## Semester Long Project draft Report
+## Semester Long Project draft Reportpng
   
   As we were coming up with ideas for our CS452 semester-long project, we had a variety of broad suggestions from our professor. However, we wanted to take on a task that would be more relatable to the average Middlebury student. And we thought, “What does every Middlebury student deal with on a daily basis outside of academics?” We quickly came to our answer: Nobody likes dealing with long lines in Ross Dining Hall! Thus, we decided to take on the task of using image processing to find out when the lines in Ross Dining Hall were the longest during lunch hours. 
   
@@ -37,7 +37,7 @@ November 29, 2018
 
 #### Results:
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png. "Monday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png "Monday")
 
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
 
