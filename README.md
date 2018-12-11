@@ -37,9 +37,13 @@ November 29, 2018
 
 #### Results:
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png "Monday")
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png "Monday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
+
+
+
 
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20wednesday.png "Wednesday")
 
