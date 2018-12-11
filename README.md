@@ -37,19 +37,29 @@ November 29, 2018
 
 #### Results:
 
-Solarized dark             |  Solarized Ocean
+Our Results                |  Googles Data
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png "Monday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/monday%20smooth%20graph.png "Monday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png "Monday")
+
+Our Results                |  Googles Data
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/tuesday%20smooth%20graph.png "Tuesday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
+
+Our Results                |  Googles Data
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/wednesday%20smooth%20graph.png "Wednesday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20wednesday.png "Wednesday")
+
+Our Results                |  Googles Data
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/thursday%20smooth%20graph.png "Thursday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20thursday%20graph.png "Thursday")
+
+Our Results                |  Googles Data
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/friday%20smooth%20graph.png "Friday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20friday%20graph.png "Friday")
 
 
 
 
-
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20wednesday.png "Wednesday")
-
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20thursday%20graph.png "Thursday")
-
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20friday%20graph.png "Friday")
 
  
 #### Issues that we have faced:
