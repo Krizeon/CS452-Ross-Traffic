@@ -39,7 +39,7 @@ November 29, 2018
 #### Our original Plan: 
 1.    Collecting data. (10/31 ~ 11/13) 
 2.    Working on code to:
-        a.  Get our background subtracted white blobs to be more connected (11/4) 
+          a.  Get our background subtracted white blobs to be more connected (11/4) 
         b.  Remove any outliers like the grey noise or people wandering around (11/11) 
         c.  Define what a line of people looks like in our algorithm ( 11/11) 
         d.  Remove as much noise as possible ( 11/4) 
