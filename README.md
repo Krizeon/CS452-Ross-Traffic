@@ -45,7 +45,7 @@ December 11, 2018
   ![](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/getting%20blobs.gif "Logo Title Text 1")
   
   ## Disclaimer!
-  Due to the nature of this project we will not include the mp4 files that we had gathered through our experimentation.  Rather, we have include the txt files in which we have saved the data that we have clollected
+  Due to the nature of this project we will not include the mp4 files that we had gathered through our experimentation.  Rather, we have included the txt files in which we have saved the data that we have collected.
 
 #### What we accomplished: 
 1.    Gained approval to film in the dining halls.
