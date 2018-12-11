@@ -9,10 +9,15 @@ Professor Vaccari
 
 November 29, 2018
 
+##### Acknowledgments
+  We would like to thank Professor Vaccari as well as Joey Hernandez for all their help on this assignment.
+
 ## Semester Long Project draft Report
   As we were coming up with ideas for our CS452 semester-long project, we had a variety of broad suggestions from our professor. However, we wanted to take on a task that would be more relatable to the average Middlebury student. And we thought, “What does every Middlebury student deal with on a daily basis outside of academics?” We quickly came to our answer: Nobody likes dealing with long lines in Ross Dining Hall! Thus, we decided to take on the task of using image processing to find out when the lines in Ross Dining Hall were the longest during lunch hours. 
   
   As Middlebury students ourselves, we already have an intuitive sense of when lines form to be the longest in Ross. The line builds quite commonly around what we will call the “primary” station, which usually serves fresh cooked meats, sandwiches, fries, veggie patties, etc.  We figured that we would need to take video of this line from a high angle to be able to capture enough of the line to do our processing. We did just that  Monday through Friday for two weeks from 11am-2pm. Then, we created an algorithm that takes this format of video as input and will output the data necessary to create a graph that outlines when the best times to go eat are.
+  
+  To get to that point, however, we first had to find out if we were allowed to even conduct this project.  We conntacted many professors and were eventually told about the [Institutional Reveiw Board](http://www.middlebury.edu/academics/resources/irb).  The IRB is responcible for handling any reasurch based projects that involve human participence.  We quickly found out that because our project was not in the general scope and the results would not be published, we would be able to conduct our project.  We then had to get approval from the dinning hall staff, human resorcues and public saftey, to make sure that if there were any issues in conducting this experiment we were not at fult.  With that all squared away we could now focuse on how to acctually aquire the neccecary data (film) for the experiment.  We reached out to media services to get a video camera to start gathering our data.  The camera that we got, We quickly found out, was shooting in to high of quality making the the file sizes too large to work with as well as the file that we receved was a .mts
   
   Due to some unfortunate events, we have been forced to adapt our project, which was initially to identify timeframes when the line in Ross dining hall is short. Now it is to be able to accurately guess how many people make up a “blob” in ross dining hall line at a specific moment. The “blob” is a group of students, depending on how many students there are the “blob” shall change in size.   To define this “blob” we will extract data from the videos that we have taken by utilizing different image processing techniques from OpenCV and Skimage to focus on the group of people that create the “blob”.  We will place the information in a go/link (a shortcut to web pages that students can access when connected to middlebury wifi. -- Eg. go/menu)  that will be connected to our Github page.
 #### Methods:
@@ -46,4 +51,5 @@ https://docs.opencv.org/3.4/index.html
 http://scikit-image.org/docs/dev/api/skimage.html
 https://stackoverflow.com/questions/18632276/how-to-draw-a-line-on-an-image-in-opencv 
 https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms 
+
 
