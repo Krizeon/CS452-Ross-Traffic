@@ -37,13 +37,13 @@ November 29, 2018
 
 #### Results:
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png. "Monpngday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png. "Monday")
 
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20wednesday%20graph.png "Wednesday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20wednesday.png "Wednesday")
 
-![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20thurday%20graph.png "Thursday")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20thursday%20graph.png "Thursday")
 
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20friday%20graph.png "Friday")
 
