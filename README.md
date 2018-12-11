@@ -56,6 +56,7 @@ November 29, 2018
 #### Results:
 
   Ideally, we would have recorded several weeks or months of data and then averaged out the data for each day of the week. However, this was not possible due to time constraints. Luckily, we are able to cross-reference our data with Google’s own graphs of Ross Dining Hall. If one searches the term “Ross Dining Hall hours” on Google.com, there is a section of the page called “popular times” that contains graphs of each day of the week that roughly indicates when peak hours are. Remember that for the scope of this project we are only interested in Ross lunch hours, between 11am to 2pm. Thus, our own results are compared with Google’s as follows:
+  
 
 Our Results                |  Google's Data
 :-------------------------:|:-------------------------:
