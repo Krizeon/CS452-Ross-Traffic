@@ -84,7 +84,7 @@ Our Results                |  Google's Data
   Throughout the whole project we have had many issues, starting with acquiring the necessary permission to conduct this study. We first had to contact the Institutional Review Board to understand how to proceed, to which they directed us to the appropriate departments to consult. From there we then contacted the Dining Hall Staff, Human Resources, and Public Safety.  Once we got the go ahead we also had to find the proper technology to capture our raw data.  The largest hurdle that we have had to face, however, was losing one of our group members due to unforeseen circumstances. This severely set us back and forced us to change our approach in what the outcome of our study would be.  
   
 #### Future work:
-Future work would include creating more accurate model utilizig a machine learning algorithm to give an estament of how many people are in the frame waiting in line.  We would have also liked to expand on the idea of establishing thresholds in which we can determine the fullness of ross dining hall and to be able to chart that change everyday from 11-2 (which was our initial experiment).
+Future work would include creating more accurate model utilizing a machine learning algorithm to give an estimate of how many people are in the frame waiting in line.  We would have also liked to expand on the idea of establishing thresholds in which we can determine the fullness of ross dining hall and to be able to chart that change every day from 11-2 (which was our initial experiment).
 
 #### References:
  
