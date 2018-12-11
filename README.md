@@ -45,10 +45,9 @@ November 29, 2018
         d.  Remove as much noise as possible ( 11/4) 
         e.  Establish thresholds that allows us to dictate how (full) the dinning all is at a given time(This was removed due               to time constraints) 
 
-What we need to finish:
-Aggregate video data from Ross Dining Hall for the next two weeks (10/31 ~ 11/13) 
-Finish implementing thresholds to our code (11/4) 
-Create a graph of our data that shows when peak times are in Ross Dining Hall for each day of the week 
+3.    Aggregate video data from Ross Dining Hall for the next two weeks (10/31 ~ 11/13) 
+4.    Finish implementing thresholds to our code (11/4) 
+5.    Create a graph of our data that shows when peak times are in Ross Dining Hall for each day of the week 
 
 
 
