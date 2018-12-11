@@ -20,6 +20,19 @@ November 29, 2018
   
   To get to that point, however, we first had to find out if we were allowed to even conduct this project.  We contacted many professors and were eventually told about the [Institutional Review Board](http://www.middlebury.edu/academics/resources/irb).  The IRB is responsible for handling any research based projects that involve human participants.  We quickly found out that because our project was not in the general scope and the results would not be published, we would be able to conduct our project.  We then had to get approval from the dining hall staff, human resources and public safety, to make sure that if there were any issues in conducting this experiment we were not at fault.  With that all squared away we could now focus on how to actually acquire the necessary data (film) for the experiment.  We reached out to media services to get a video camera to start gathering our data.  The camera that we got, we quickly found out, was shooting in to high of quality making the file sizes too large to work with as well as the export file that we received was a mts file.  This file type was causing us difficulty because two of our three laptops could not open the file and the third was struggling to download the file efficiently.  After attempting to change the setting internally with in the camera as well as downloading third party software, we decided to get a new camera. This camera allowed us to easily change the internal settings as well as gave us an mp4 type file which is much easier to process and condense.  This was perfect for what we were doing because we did not care about having a high-quality image, all we wanted was to be able to identify when people were in a given frame and for that we could significantly reduce the quality of the video. 
   
+  #### Our original Plan: 
+1.  Collecting data. (10/31 ~ 11/13) 
+2.  Working on code to:
+    * Get our background subtracted white blobs to be more connected (11/4) 
+    * Remove any outliers like the grey noise or people wandering around (11/11) 
+    * Define what a line of people looks like in our algorithm ( 11/11) 
+    * Remove as much noise as possible ( 11/4) 
+    * Establish thresholds that allows us to dictate how (full) the dinning all is at a given time(This was removed due               to time constraints) 
+
+3.    Aggregate video data from Ross Dining Hall for the next two weeks (10/31 ~ 11/13) 
+4.    Finish implementing thresholds to our code (11/4) 
+5.    Create a graph of our data that shows when peak times are in Ross Dining Hall for each day of the week 
+  
   Due to some unfortunate events, we have been forced to adapt our project, which was initially to identify timeframes when the line in Ross dining hall is short. Now it is to be able to accurately guess how many people make up a “blob” in ross dining hall line at a specific moment. The “blob” is a group of students, depending on how many students there are the “blob” shall change in size.   To define this “blob” we will extract data from the videos that we have taken by utilizing different image processing techniques from OpenCV and Skimage to focus on the group of people that create the “blob”.  We will place the information in a go/link (a shortcut to web pages that students can access when connected to middlebury wifi. -- Eg. go/menu)  that will be connected to our Github page.
   
 #### Methods:
@@ -35,20 +48,6 @@ November 29, 2018
 3.    Begin to aquire data
 4.    Developed a functional Background Subtraction Algorithm Using Open CV2
 5.    Creating a graph for each day of the week to visually represent the data that we produce
-
-#### Our original Plan: 
-1.  Collecting data. (10/31 ~ 11/13) 
-2.  Working on code to:
-    * Get our background subtracted white blobs to be more connected (11/4) 
-    * Remove any outliers like the grey noise or people wandering around (11/11) 
-    * Define what a line of people looks like in our algorithm ( 11/11) 
-    * Remove as much noise as possible ( 11/4) 
-    * Establish thresholds that allows us to dictate how (full) the dinning all is at a given time(This was removed due               to time constraints) 
-
-3.    Aggregate video data from Ross Dining Hall for the next two weeks (10/31 ~ 11/13) 
-4.    Finish implementing thresholds to our code (11/4) 
-5.    Create a graph of our data that shows when peak times are in Ross Dining Hall for each day of the week 
-
 
 
 #### Results:
