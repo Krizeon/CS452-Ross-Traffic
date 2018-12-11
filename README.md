@@ -61,31 +61,36 @@ November 29, 2018
 While Google’s data is very rough and take data every hour (we took data every minute), we can see that our graphs are similar enough. In our graphs, we can come to the following conclusion of peak hours per day of the week:
 
 
-Monday: We find peak hours to be close to noon and 1:00pm. This data doesn’t correlate well with Google’s data, nor our intuition of Ross’s lines at rush hour, which is generally at 12:15 on Mondays.
+#### Monday: 
+We find peak hours to be close to noon and 1:00pm. This data doesn’t correlate well with Google’s data, nor our intuition of Ross’s lines at rush hour, which is generally at 12:15 on Mondays.
 
 Our Results                |  Google's Data
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/monday%20smooth%20graph.png "Monday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20monday%20graph.png "Monday")
 
-Tuesday: The spike at the beginning of the graph is unclear to be reliable or not. Regardless, the data for this day is a lot smoother and readable. Peak hour starts at noon, in which the line stays long for about half an hour, dips for about 20 minutes, and peaks again at around 1:15pm. This appears consistent with Google’s graph.
+#### Tuesday: 
+The spike at the beginning of the graph is unclear to be reliable or not. Regardless, the data for this day is a lot smoother and readable. Peak hour starts at noon, in which the line stays long for about half an hour, dips for about 20 minutes, and peaks again at around 1:15pm. This appears consistent with Google’s graph.
 
 Our Results                |  Google's Data
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/tuesday%20smooth%20graph.png "Tuesday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20tuesday%20graph.png "Tuesday")
 
-Wednesday: Peak times begin around noon again, with another peak happening at 12:45pm and 1:15pm. This is roughly consistent with Google’s graph.
+#### Wednesday: 
+Peak times begin around noon again, with another peak happening at 12:45pm and 1:15pm. This is roughly consistent with Google’s graph.
 
 Our Results                |  Google's Data
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/wednesday%20smooth%20graph.png "Wednesday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20wednesday.png "Wednesday")
 
-Thursday: Peak times begin at 11:45am, and the line stays consistently long for the next hour and a half. This is very consistent with Google’s data.
+#### Thursday: 
+Peak times begin at 11:45am, and the line stays consistently long for the next hour and a half. This is very consistent with Google’s data.
 
 Our Results                |  Google's Data
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/thursday%20smooth%20graph.png "Thursday")  |  ![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/google%20thursday%20graph.png "Thursday")
 
-Friday: The line grows linearly beginning at 11:50 and grows to its peak at 12:15. The line stays long for roughly half an hour. This is consistent with Google’s data.
+#### Friday: 
+The line grows linearly beginning at 11:50 and grows to its peak at 12:15. The line stays long for roughly half an hour. This is consistent with Google’s data.
 
 Our Results                |  Google's Data
 :-------------------------:|:-------------------------:
