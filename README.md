@@ -28,7 +28,7 @@ November 29, 2018
     
   Since not all blobs will signify lines, we also needed a way to find out when the largest blob was at the primary station. Luckily, the left-most portion of our videos cut off where the primary station begins. To make this experiment more conducive to our mission, we will implement a check at the primary station to see if a line has been formed. This check will be based around the largest “blob” in the frame, however, if the “blob” is not by the Primary station(x amount of pixels from the left side) then we will not account for it.  We will then store this data along with the current frame number in a text file to use to create a graph afterwards.  This information then will be trained in a machine learning algorithm to predict the number of students in the frame given the size of the “blob”. Once we get a sense of how many pixels form a full-sized person in the video, we can roughly estimate the number of people in line, and thus determine if the line is either “long” or “not long”.
   
-
+## ----DELETE----
 #### What we accomplished: 
 1.    Gained approval to film in the dining halls.
 2.    Acquired a camera to film data 
@@ -45,7 +45,9 @@ November 29, 2018
   
 #### Future work:
 Future work would include creating more accurate model within the machine learning algorithm as well as establish thresholds in which we can determine the fullness of ross dining hall and to be able to chart that change everyday from 11-2 (which was our initial experiment).
- 
+
+## ----DELETE----
+
 #### References:
  
 https://docs.opencv.org/3.4/index.html
