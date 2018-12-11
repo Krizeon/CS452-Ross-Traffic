@@ -38,9 +38,12 @@ November 29, 2018
 #### Methods:
   To create the “blob” we have created an algorithm which process the video that we have obtained from two weeks of filming in Ross Dining Hall.  This algorithm utilizes an OpenCV2 method, cv2.createBackgroundSubtractorKNN(). We found this specific background subtractor to be most useful for the dimmer lighting conditions that we have to adjust to in our videos. We found that most of our videos' bottom half was irrelevant, so we discarded the bottom half of our background-subtracted frame. We then begin to read in every 150 frames, or 5 seconds in our 30 frame-per-second video, and begin our processing. For every selected frame, we run a median filter to get rid of salt and pepper noise that will appear in our initial background subtraction. We then run other morphological filters to our mask to try to achieve a solid “blob”. Afterwards, we use region finding to find the largest “blob” of people that appears in mask and focus on the size in pixels of that “blob”. After our morphological filters, we end up with the following:
   
-![](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/getting%20blobs.gif "Logo Title Text 1")
+![alt text](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/bgsubtraction%20example.png "Logo Title Text 1")
+
     
   Since not all blobs will signify lines, we also needed a way to find out when the largest blob was at the primary station. Luckily, the left-most portion of our videos cut off where the primary station begins. To make this experiment more conducive to our mission, we will implement a check at the primary station to see if a line has been formed. This check will be based around the largest “blob” in the frame, however, if the “blob” is not by the Primary station(x amount of pixels from the left side) then we will not account for it.  We will then store this data along with the current frame number in a text file to use to create a graph afterwards.  This information then will be trained in a machine learning algorithm to predict the number of students in the frame given the size of the “blob”. Once we get a sense of how many pixels form a full-sized person in the video, we can roughly estimate the number of people in line, and thus determine if the line is either “long” or “not long”.
+  
+  ![](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/getting%20blobs.gif "Logo Title Text 1")
 
 #### What we accomplished: 
 1.    Gained approval to film in the dining halls.
@@ -51,6 +54,8 @@ November 29, 2018
 
 
 #### Results:
+
+  Ideally, we would have recorded several weeks or months of data and then averaged out the data for each day of the week. However, this was not possible due to time constraints. Luckily, we are able to cross-reference our data with Google’s own graphs of Ross Dining Hall. If one searches the term “Ross Dining Hall hours” on Google.com, there is a section of the page called “popular times” that contains graphs of each day of the week that roughly indicates when peak hours are. Remember that for the scope of this project we are only interested in Ross lunch hours, between 11am to 2pm. Thus, our own results are compared with Google’s as follows:
 
 Our Results                |  Google's Data
 :-------------------------:|:-------------------------:
