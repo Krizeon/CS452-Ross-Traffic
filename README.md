@@ -9,10 +9,12 @@ Professor Vaccari
 
 November 29, 2018
 
-##### Acknowledgments
-  We would like to thank Professor Vaccari as well as Joey Hernandez for all their help on this assignment.
 
 ## Semester Long Project draft Report
+
+##### Acknowledgments
+  We would like to thank Professor Vaccari as well as Joey Hernandez for all their help on this assignment.
+  
   As we were coming up with ideas for our CS452 semester-long project, we had a variety of broad suggestions from our professor. However, we wanted to take on a task that would be more relatable to the average Middlebury student. And we thought, “What does every Middlebury student deal with on a daily basis outside of academics?” We quickly came to our answer: Nobody likes dealing with long lines in Ross Dining Hall! Thus, we decided to take on the task of using image processing to find out when the lines in Ross Dining Hall were the longest during lunch hours. 
   
   As Middlebury students ourselves, we already have an intuitive sense of when lines form to be the longest in Ross. The line builds quite commonly around what we will call the “primary” station, which usually serves fresh cooked meats, sandwiches, fries, veggie patties, etc.  We figured that we would need to take video of this line from a high angle to be able to capture enough of the line to do our processing. We did just that  Monday through Friday for two weeks from 11am-2pm. Then, we created an algorithm that takes this format of video as input and will output the data necessary to create a graph that outlines when the best times to go eat are.
