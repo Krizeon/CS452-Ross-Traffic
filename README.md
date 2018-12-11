@@ -43,6 +43,9 @@ December 11, 2018
   Since not all blobs will signify lines, we also needed a way to find out when the largest blob was at the primary station. Luckily, the left-most portion of our videos cut off where the primary station begins. To make this experiment more conducive to our mission, we will implement a check at the primary station to see if a line has been formed. This check will be based around the largest “blob” in the frame, however, if the “blob” is not by the Primary station(x amount of pixels from the left side) then we will not account for it. To account for giant blobs being outside the checkpoint, we use bounding boxes around our blobs. A bounding box is a box that is drawn around the extreme points of a blob. What’s useful about these bounding boxes is that we can get the x-coordinate of furthest-left or right edge of the blob. We then run another check for other significantly sized blobs of >25,000 pixels in area, draw a bounding box around that, then add the leftmost or rightmost bounding edge to the bounding edge of the largest blob depending on its relevant position to the largest blob on screen. We also add the areas of these significantly sized blobs to the largest blob area. This allows us to get a more accurate representation of which blobs are a part of the line. We then store the data of each blob area per minute corresponding to each day to use to create a graph afterwards. To smooth out each graph, we run a 1-D median filter as well as a Gaussian filter. 
   
   ![](https://github.com/Krizeon/CS452-Ross-Traffic/blob/master/getting%20blobs.gif "Logo Title Text 1")
+  
+  ## Disclaimer!
+  Due to the nature of this project we will not include the mp4 files that we had gathered through our experimentation.  Rather, we have include the txt files in which we have saved the data that we have clollected
 
 #### What we accomplished: 
 1.    Gained approval to film in the dining halls.
