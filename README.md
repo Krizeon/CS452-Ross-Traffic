@@ -40,10 +40,10 @@ November 29, 2018
 1.  Collecting data. (10/31 ~ 11/13) 
 2.  Working on code to:
     * Get our background subtracted white blobs to be more connected (11/4) 
-        b.  Remove any outliers like the grey noise or people wandering around (11/11) 
-        c.  Define what a line of people looks like in our algorithm ( 11/11) 
-        d.  Remove as much noise as possible ( 11/4) 
-        e.  Establish thresholds that allows us to dictate how (full) the dinning all is at a given time(This was removed due               to time constraints) 
+    * Remove any outliers like the grey noise or people wandering around (11/11) 
+    * Define what a line of people looks like in our algorithm ( 11/11) 
+    * Remove as much noise as possible ( 11/4) 
+    * Establish thresholds that allows us to dictate how (full) the dinning all is at a given time(This was removed due               to time constraints) 
 
 3.    Aggregate video data from Ross Dining Hall for the next two weeks (10/31 ~ 11/13) 
 4.    Finish implementing thresholds to our code (11/4) 
